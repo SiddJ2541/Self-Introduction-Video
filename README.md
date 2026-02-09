@@ -39,6 +39,7 @@ Database Management Systems
 Cloud Computing (learning)
 
 📂 Projects
+
 ▪ Loan Predictor website design (Feb 23)
 -Description: Helps to predict the consequences of taking a loan.
 - Technology: Python, HTML/CSS , Streamlit
